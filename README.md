@@ -10,7 +10,7 @@ Docker: https://www.docker.com/get-started
 
 - Open terminal
 - Go to the directory where docker-compose is located
-- run the next line
+- Run the next line
 
 ```bash
 docker-compose up
